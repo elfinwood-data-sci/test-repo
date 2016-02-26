@@ -9,4 +9,5 @@ if 0<h<=40:
 else:
     pay_gt40=(40*r)+((h-40)*(r*1.5))
     print(pay_gt40)
+    print ("Howdy Partner")
     
